@@ -2,7 +2,8 @@
 
 Dada la siguiente integral calcular el resultado usando python
 
-![20230522_120955](https://github.com/MariaRod123/calculo-integral/assets/72228855/75d77f8a-1e68-4258-9ae0-d74b53a73bd8)
+![2023-05-22_14h01_46](https://github.com/MariaRod123/calculo-integral/assets/72228855/98ae21d8-acaa-46f5-bec2-6c5d8c323f19)
+
 
 Resultado esperado
 
