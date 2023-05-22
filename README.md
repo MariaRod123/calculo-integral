@@ -1,6 +1,6 @@
 # Calculando integrales con Python
 
-Dada la siguiente integral calcular el valor usando python
+Dada la siguiente integral calcular el resultado usando python
 
 ![20230522_120955](https://github.com/MariaRod123/calculo-integral/assets/72228855/75d77f8a-1e68-4258-9ae0-d74b53a73bd8)
 
